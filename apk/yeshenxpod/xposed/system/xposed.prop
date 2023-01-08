@@ -1,0 +1,4 @@
+version=88 (Xposed SDK25 Nougat ARM64 by PurifyOS)
+arch=x86
+minsdk=25
+maxsdk=25
