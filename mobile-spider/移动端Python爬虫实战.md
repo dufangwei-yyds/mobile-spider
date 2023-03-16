@@ -1,11 +1,11 @@
-##### 课程导学
-1. 课程介绍
+##### 项目介绍
+1. 项目概述
 
    ```markdown
    数据抓取,数据存储,数据可视化完整实战流程
    ```
 
-2. 学习目标
+2. 项目目标
 
    ```markdown
    学会uiautomator2对移动设备进行操控
@@ -50,10 +50,10 @@
    破解加密算法
    ```
 
-6. 课程内容
+6. 项目内容
 
    ```markdown
-   # 课程内容V1
+   # 项目内容V1
    python <=appium=> android
    
    python 夜神模拟器/genymotion fiddler/mitmproxy/Packet Capture appium docker
@@ -62,7 +62,7 @@
    mongodb =pymongodb=> appium-python-client =http通讯=> docker appium <-http通讯-> 快手
                                                         docker appium <-http通讯-> 今日头条                                         
    
-   # 课程内容V2
+   # 项目内容V2
    uiautomator2
    weditor fiddler mitmproxy ...
    抖音 atxserver2 es  kibana
