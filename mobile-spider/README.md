@@ -3,15 +3,18 @@
 python版本: python3.10.6
 
 1. 虚拟环境搭建
+   
    pip3 install virtualenv==20.0.23 -i https://pypi.douban.com/simple
    mkdir mobile-spider
    python3 -m virtualenv venv
    source venv/bin/activate
 
-2. 更新pip版本
+3. 更新pip版本
+   
    python3 -m pip install --upgrade pip
 
-3. pip安装uiautomator2、Appium-Python-Client、weditor、mitmproxy、elasticsearch以及uiautomator2初始化
+5. pip安装uiautomator2、Appium-Python-Client、weditor、mitmproxy、elasticsearch以及uiautomator2初始化
+   
    pip3 install uiautomator2 -i https://pypi.douban.com/simple
    python3 -m uiautomator2 init 
 
