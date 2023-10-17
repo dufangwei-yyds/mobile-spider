@@ -1,2 +1,2 @@
 # mobile-spider
-Python移动端爬虫学习
+Python移动端爬虫
